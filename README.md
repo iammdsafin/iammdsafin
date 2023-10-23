@@ -19,7 +19,7 @@
 
 
 <div align="center" dir="auto" <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammdsafin&layout=compact" />
- <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=404RequestedUserNotFound&layout=compact" />
+ <img style="max-width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammdsafin&layout=compact" />
 </div>
 
 
@@ -39,7 +39,7 @@
 <img src=https://img.shields.io/badge/LeetCode-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
   
-![GitHub streak stats](https://streak-stats.demolab.com/?user=404RequestedUserNotFound)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=iammdsafin)  
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=404RequestedUserNotFound&theme=github-compact)](https://github.com/404RequestedUserNotFound/github-readme-activity-graph)
 
 ## Recent Blog Posts  

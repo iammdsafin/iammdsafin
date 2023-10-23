@@ -27,7 +27,7 @@
 ## Connect with me  
 <div align="center">
   
-<a href="https://github.com/404RequestedUserNotFound" target="_blank">
+<a href="https://github.com/iammdsafin" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
   
@@ -39,8 +39,8 @@
 <img src=https://img.shields.io/badge/LeetCode-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
   
-![GitHub streak stats](https://streak-stats.demolab.com/?user=404RequestedUserNotFound)  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=404RequestedUserNotFound&theme=github-compact)](https://github.com/404RequestedUserNotFound/github-readme-activity-graph)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=iammdsafin)  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iammdsafin&theme=github-compact)](https://github.com/404RequestedUserNotFound/github-readme-activity-graph)
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  

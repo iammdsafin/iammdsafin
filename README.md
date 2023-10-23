@@ -40,7 +40,7 @@
 </a>
   
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=iammdsafin)  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=404RequestedUserNotFound&theme=github-compact)](https://github.com/404RequestedUserNotFound/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iammdsafin&theme=github-compact)](https://github.com/iammdsafin/github-readme-activity-graph)
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  

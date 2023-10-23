@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://github.com/404RequestedUserNotFound/404RequestedUserNotFound/blob/main/404_page.gif" />
-</div>  
+</div>
+
 - 🔭 I’m currently working on .NET
 - 🌱 I’m currently learning React
 - 💬 Ask me about ...

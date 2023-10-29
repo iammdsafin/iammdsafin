@@ -2,7 +2,7 @@
 <img src="https://github.com/404RequestedUserNotFound/404RequestedUserNotFound/blob/main/404_page.gif" />
 </div>
 
-- 🔭 I’m currently working on .NET
+- 🔭 I’m currently working on ASP .NET
 - 🌱 I’m currently learning React
 - 💬 Ask me about ...
 - 😄 Pronouns: he/him  

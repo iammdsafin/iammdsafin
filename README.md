@@ -11,6 +11,7 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: !0 °C + 0 °C = 64 °F
+- 👦🏻 A software engineer who is exploring another planet 🌍 and I would tell, but it will be pointless!🥱
 - 🎮 Play <a href="https://iammdsafin.github.io/Tic-Tac-Toe/index.html">Tic-Tac-Toc</a>
 <!-- -----------------------------------------------------------------------Introduction End----------------------------------------------------------------------- -->
 

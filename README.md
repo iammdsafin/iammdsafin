@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning React
 - 💬 Ask me about ...
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: !0 °C + 0 °C = 64 °F
+- 🤪 Roses are red, violets are blue, I don't sleep at night cause an unexpected error on line 32; 
 - 🎮 Play <a href="https://iammdsafin.github.io/Tic-Tac-Toe/index.html">Tic-Tac-Toc</a>
 <!-- -----------------------------------------------------------------------Introduction End----------------------------------------------------------------------- -->
 
